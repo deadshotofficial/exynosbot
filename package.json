@@ -1,6 +1,6 @@
 {
   "name": "exynos",
-  "version": "2.1.1",
+  "version": "3.1.1",
   "description": "",
   "main": "bot.js",
   "scripts": {
@@ -20,9 +20,11 @@
     "erela.js": "^2.3.2",
     "ffmpeg": "0.0.4",
     "ffmpeg-static": "^4.2.7",
+    "figlet": "^1.5.0",
     "fs": "0.0.1-security",
     "glob": "^7.1.6",
     "got": "^11.8.0",
+    "lyrics-finder": "^21.4.0",
     "moment": "^2.29.1",
     "mongoose": "^5.10.3",
     "ms": "^2.1.2",
@@ -34,6 +36,7 @@
     "scrape-yt": "^1.4.6",
     "superagent": "^6.1.0",
     "util": "^0.12.3",
+    "weather-js": "^2.0.0",
     "ytdl-core": "^4.5.0",
     "ytdl-core-discord": "^1.2.3"
   }
